@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'react_on_rails', '~> 6.1.0'
+gem 'foreman', '~> 0.82.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
